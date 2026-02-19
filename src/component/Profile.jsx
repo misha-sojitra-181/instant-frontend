@@ -15,7 +15,7 @@ export default function Profile() {
   const email = localStorage.getItem("userEmail");
 
   if (!email) {
-    navigate("/login");
+    navigate("/Login");
     return;
   }
 
@@ -23,7 +23,7 @@ export default function Profile() {
     .get(`http://localhost:5000/update?email=${email}`)
     .then(res => setProfile(res.data))
     .catch(err => console.log(err));
-}, []);
+}, [navigate]);
 
 if (!profile) {
     return <div className="text-center mt-5">Loading profile...</div>;

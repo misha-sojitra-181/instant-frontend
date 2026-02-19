@@ -22,12 +22,13 @@ const [image, setImage] = useState(null);
 const handleImageChange = (e) => {
   setImage(e.target.files[0]);
 };
+
   
   useEffect(() => {
   const email = localStorage.getItem("userEmail");
 
   if (!email) {
-    navigate("/login");
+    navigate("/Login");
     return;
   }
 
@@ -120,7 +121,7 @@ const handleUpdate = () => {
           <label>Profile Image</label>
           <br />
           <img src="./Images/person.jpg" alt="Profile" height={100} width={100} style={{borderRadius: 10}} />
-          <input type="file" className="form-control mt-2" name="image" accept="Images/*" value={Editprofile.image}/>
+          <input type="file" onChange={handleImageChange} className="form-control mt-2" name="image" accept="Images/*" value={Editprofile.image}/>
         </div>
         <div className="mb-3">
           <label>Full Name</label>

@@ -36,7 +36,7 @@ const handleImageChange = (e) => {
     .get(`http://localhost:5000/update?email=${email}`)
     .then(res => setEditprofile(res.data))
     .catch(err => console.log(err));
-}, []);
+}, [navigate]);
 
 if (!Editprofile) {
     return <div className="text-center mt-5">Loading profile...</div>;

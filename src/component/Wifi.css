@@ -1,0 +1,89 @@
+.plan-container {
+  padding: 40px;
+  background: #f5f7fb;
+}
+
+.plan-title {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+  color: #475569;
+  margin-bottom: 35px;
+}
+
+.plan-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 30px;
+  align-items: stretch;
+}
+
+/* CARD */
+.plan-card {
+  background: #ffffff;
+  border-radius: 22px;
+  box-shadow: 0 15px 35px rgba(0,0,0,0.12);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.plan-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 45px rgba(0,0,0,0.18);
+}
+
+/* HEADER */
+.plan-header {
+  background: linear-gradient(90deg, #2563eb, #1e40af);
+  color: white;
+  padding: 16px;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* BODY */
+.plan-body {
+  padding: 18px;
+  font-size: 14.5px;
+  color: #334155;
+  flex: 1;
+}
+
+.plan-body p {
+  margin: 8px 0;
+}
+
+.plan-desc {
+  margin-top: 10px;
+  font-size: 13px;
+  color: #64748b;
+}
+
+/* BUTTON FIXED AT BOTTOM */
+.plan-btn {
+  margin-top: auto;
+  width: 100%;
+  padding: 14px;
+  border: none;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+  cursor: pointer;
+  background: linear-gradient(90deg, #f97316, #2563eb);
+  transition: all 0.3s ease;
+}
+
+.plan-btn:hover {
+  background: linear-gradient(90deg, #2563eb, #1e40af);
+}
+
+/* EMPTY STATE */
+.no-plan {
+  grid-column: 1 / -1;
+  text-align: center;
+  font-size: 16px;
+  color: #64748b;
+}

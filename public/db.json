@@ -1,0 +1,732 @@
+{
+  "tblregister": [
+    {
+      "id": "1",
+      "fname": "Golakiya Shruti Sanjaybhai",
+      "uname": "shruti",
+      "email": "shruti1@gmail.com",
+      "mobile": "987456321",
+      "gender": "female",
+      "dob": "2025-02-11",
+      "password": "shruti123",
+      "Photo": "blob:https://miniproject-ashy-theta.vercel.app/3bcfd49f-8a2a-4d6a-bcfa-61f5d8d59998",
+      "photo": "blob:https://miniproject-572o6imuc-misha-sojitra-181s-projects.vercel.app/aff9dbb8-686b-4973-9f4b-458aa55ed6b7",
+      "imageFile": {}
+    },
+    {
+      "id": "2",
+      "fname": "Golakiya milan sanjaybhai",
+      "uname": "milan",
+      "email": "milan1@gmail.com",
+      "mobile": "951236874",
+      "gender": "male",
+      "dob": "2025-01-16",
+      "password": "milan123",
+      "Photo": ""
+    },
+    {
+      "id": "3",
+      "fname": "sojitra misha",
+      "uname": "misha",
+      "email": "misha1@gmail.com",
+      "mobile": "856974100",
+      "gender": "female",
+      "dob": "2025-08-15",
+      "password": "misha12",
+      "Photo": "blob:http://localhost:3000/63e34fee-d719-4126-91e9-f5a33212dd0e",
+      "photo": "blob:http://localhost:3000/eff76613-64f9-42fe-88dc-4b9da895f332",
+      "imageFile": {}
+    },
+    {
+      "id": "4",
+      "fname": "Golakiya Gopi Sanjaybhai",
+      "uname": "gopi",
+      "email": "gopi1@gmail.com",
+      "mobile": "985632145",
+      "gender": "female",
+      "dob": "2025-02-04",
+      "password": "gopi123",
+      "Photo": ""
+    },
+    {
+      "id": "5",
+      "fname": "patel dish r",
+      "uname": "disha",
+      "email": "disha1@gmail.com",
+      "mobile": "9856321775",
+      "gender": "female",
+      "dob": "2025-04-12",
+      "password": "disha123",
+      "Photo": "images/green.jpg"
+    },
+    {
+      "id": "6",
+      "fname": "diyora mental abcbhai",
+      "uname": "mental",
+      "email": "mental1@gmail.com",
+      "mobile": "9924422525",
+      "gender": "female",
+      "dob": "2025-05-08",
+      "password": "mental123",
+      "cpassword": "mental123",
+      "photo": "",
+      "imageFile": {},
+      "Photo": "blob:http://localhost:3000/dd41b03b-f36e-4066-a50b-816b1bd0107f"
+    },
+    {
+      "id": "7",
+      "fname": "Prince Sojitra jaysukbhai",
+      "uname": "Prince",
+      "email": "prince@gmail.com",
+      "mobile": "9823577823",
+      "gender": "male",
+      "dob": "2007-11-07",
+      "password": "prince123",
+      "cpassword": "prince123"
+    },
+    {
+      "id": "8",
+      "fname": "Smit Sojitra dilipbhai",
+      "uname": "smit",
+      "email": "smit@gmail.com",
+      "mobile": "9356296228",
+      "gender": "male",
+      "dob": "2007-08-28",
+      "password": "smit123",
+      "cpassword": "smit123",
+      "photo": "blob:http://localhost:3000/43574b3f-a28f-4786-8e2b-168492a99022",
+      "imageFile": {},
+      "Photo": "blob:http://localhost:3000/1a96f6a0-9c63-4e8f-9ed5-a4600922a828"
+    },
+    {
+      "id": "9ac7",
+      "fname": "Gondaliya Disha",
+      "uname": "Disha",
+      "email": "gopi@gmail.com",
+      "mobile": "9906754345",
+      "gender": "female",
+      "dob": "2005-12-10",
+      "password": "Disha@123",
+      "cpassword": "Disha@123",
+      "photo": "",
+      "imageFile": {},
+      "Photo": "blob:https://miniproject-ashy-theta.vercel.app/0ba704f4-10f2-438f-b564-c33745011a37"
+    }
+  ],
+  "tblplan": [
+    {
+      "planid": 1,
+      "plan_name": "Daily Delight",
+      "Data": "1.5 GB/day",
+      "amount": 299,
+      "validity": "22 days",
+      "description": "Unlimited calls,100 SMS/day, high speed data per ...",
+      "id": "b610"
+    },
+    {
+      "planid": 2,
+      "plan_name": "Data Boost",
+      "Data": "6 GB total",
+      "amount": 98,
+      "validity": "14 Days",
+      "description": "Data-only pack, ideal for work-from-home users",
+      "id": "3aad"
+    },
+    {
+      "planid": 3,
+      "plan_name": "Smart Talk",
+      "Data": "1 GB/day",
+      "amount": 149,
+      "validity": "20 Days",
+      "description": "Unlimited calls + 1GB/day + 100 SMS/day",
+      "id": "332d"
+    },
+    {
+      "planid": 4,
+      "plan_name": "OTT Max",
+      "Data": "2 GB/day",
+      "amount": 499,
+      "validity": "28 Days",
+      "description": "Includes Disney+ Hotstar, Netflix Mobile + Unlimit...",
+      "id": "31f0"
+    },
+    {
+      "planid": 5,
+      "plan_name": "Super Saver",
+      "Data": "1 GB/day",
+      "amount": 199,
+      "validity": "28 Days",
+      "description": "Combo: Calls + 100 SMS/day + high-speed data",
+      "id": "a8b4"
+    },
+    {
+      "planid": 6,
+      "plan_name": "Night Owl",
+      "Data": "15 GB (Night)",
+      "amount": 59,
+      "validity": "7 Nights",
+      "description": "Night data pack, valid from 12 AM to 6 AM",
+      "id": "d277"
+    },
+    {
+      "planid": 7,
+      "plan_name": "Weekend Binge",
+      "Data": "10 GB (total)",
+      "amount": 89,
+      "validity": "3 Days",
+      "description": "Best for weekend binge-watching",
+      "id": "019d"
+    },
+    {
+      "planid": 8,
+      "plan_name": "Work From Home",
+      "Data": "50 GB total",
+      "amount": 251,
+      "validity": "30 Days",
+      "description": "Data-only plan for remote workers",
+      "id": "d965"
+    },
+    {
+      "planid": 9,
+      "plan_name": "Family Plan",
+      "Data": "3 GB/day (x3)",
+      "amount": 999,
+      "validity": "28 Days",
+      "description": "For 3 users. Unlimited calls, SMS & data per user",
+      "id": "fafe"
+    },
+    {
+      "planid": 10,
+      "plan_name": "Basic Plan",
+      "Data": "1 GB total",
+      "amount": 109,
+      "validity": "28 Days",
+      "description": "Minimal data, unlimited voice calling",
+      "id": "487b"
+    },
+    {
+      "planid": 11,
+      "plan_name": "Annual Saver",
+      "Data": "1.5 GB/day",
+      "amount": 2399,
+      "validity": "365 Days",
+      "description": "Year-long combo pack with OTT access",
+      "id": "0dc4"
+    },
+    {
+      "planid": 12,
+      "plan_name": "Student Plan",
+      "Data": "2 GB/day",
+      "amount": 125,
+      "validity": "10 Days",
+      "description": "Special plan for students – short-term high-speed ...",
+      "id": "4a3a"
+    },
+    {
+      "planid": 13,
+      "plan_name": "Gaming Pack",
+      "Data": "20 GB total",
+      "amount": 301,
+      "validity": "30 Days",
+      "description": "High-speed low-latency data pack for gamers",
+      "id": "a840"
+    },
+    {
+      "planid": 14,
+      "plan_name": "Voice Only",
+      "Data": "0 GB",
+      "amount": 79,
+      "validity": "28 Days",
+      "description": "Unlimited voice calling only",
+      "id": "815b"
+    },
+    {
+      "planid": 15,
+      "plan_name": "Festival Dhamaka",
+      "Data": "2.5 GB/day",
+      "amount": 555,
+      "validity": "40 Days",
+      "description": "Special festive offer with bonus OTT vouchers",
+      "id": "4ba3"
+    },
+    {
+      "planid": 16,
+      "plan_name": "Mini Internet",
+      "Data": "1 GB total",
+      "amount": 49,
+      "validity": "24 Hours",
+      "description": "24-hour plan for emergency use",
+      "id": "a8c3"
+    },
+    {
+      "planid": 17,
+      "plan_name": "Unlimited Plus",
+      "Data": "3 GB/day",
+      "amount": 599,
+      "validity": "28 Days",
+      "description": "Premium plan with all OTT, voice & 300 SMS/day",
+      "id": "30d1"
+    },
+    {
+      "planid": 18,
+      "plan_name": "Senior Citizen",
+      "Data": "500 MB/day",
+      "amount": 99,
+      "validity": "28 Days",
+      "description": "Light usage plan for elders – unlimited voice",
+      "id": "502f"
+    },
+    {
+      "planid": 19,
+      "plan_name": "International",
+      "Data": "5 GB total",
+      "amount": 799,
+      "validity": "10 Days",
+      "description": "Data + calling pack for international roaming",
+      "id": "d4d0"
+    },
+    {
+      "planid": 20,
+      "plan_name": "YouTube Booster",
+      "Data": "5 GB (YouTube)",
+      "amount": 61,
+      "validity": "5 Days",
+      "description": "Data restricted to YouTube streaming",
+      "id": "60d7"
+    }
+  ],
+  "tblpayment": [
+    {
+      "pid": 23,
+      "id": "1",
+      "planid": 1,
+      "amount": 299,
+      "method": "Net Banking",
+      "tid": 2025456987,
+      "rechargeat": "2025-09-11 00:00:00"
+    },
+    {
+      "pid": 24,
+      "id": "1",
+      "planid": 5,
+      "amount": 199,
+      "method": "UPI",
+      "tid": 202596856,
+      "rechargeat": "2025-09-11 00:00:00"
+    },
+    {
+      "pid": 25,
+      "id": "1",
+      "planid": 10,
+      "amount": 109,
+      "method": "Credit/Debit Card",
+      "tid": 2025123654,
+      "rechargeat": "2025-09-11 15:57:13"
+    },
+    {
+      "pid": 26,
+      "id": "4",
+      "planid": 4,
+      "amount": 499,
+      "method": "Net Banking",
+      "tid": 202512563,
+      "rechargeat": "2025-09-11 16:51:08"
+    },
+    {
+      "pid": 27,
+      "id": "5",
+      "planid": 1,
+      "amount": 299,
+      "method": "Credit/Debit Card",
+      "tid": 2025896589,
+      "rechargeat": "2025-10-01 12:50:33"
+    },
+    {
+      "pid": 28,
+      "id": "1",
+      "planid": 9,
+      "amount": 999,
+      "method": "Credit/Debit Card",
+      "tid": 202589655,
+      "rechargeat": "2025-10-01 13:37:28"
+    },
+    {
+      "pid": 29,
+      "id": "1",
+      "planid": 2,
+      "amount": 98,
+      "method": "Net Banking",
+      "tid": 2025756656,
+      "rechargeat": "2025-10-06 13:48:07"
+    },
+    {
+      "id": "30",
+      "planid": "4",
+      "amount": 499,
+      "method": "Credit/Debit Card",
+      "tid": "2025985632147",
+      "rechargeat": "2025-11-04T05:47:51.323Z"
+    },
+    {
+      "id": "31",
+      "planid": "1",
+      "amount": 299,
+      "method": "Net Banking",
+      "tid": "2025895",
+      "rechargeat": "2025-11-04T15:20:03.098Z"
+    },
+    {
+      "id": "32",
+      "planid": "11",
+      "amount": 2399,
+      "method": "UPI",
+      "tid": "202512365896",
+      "rechargeat": "2025-11-04T16:40:08.775Z"
+    },
+    {
+      "id": "33",
+      "wifiid": "2",
+      "amount": 499,
+      "method": "Credit/Debit Card",
+      "tid": "202582004918",
+      "rechargeat": "2025-11-04T17:18:48.721Z"
+    },
+    {
+      "id": "34",
+      "planid": "11",
+      "plan_name": "Annual Saver",
+      "amount": 2399,
+      "method": "Net Banking",
+      "tid": "24071274537",
+      "rechargeat": "2025-11-05T08:50:00.340Z"
+    },
+    {
+      "id": "35",
+      "planid": "13",
+      "plan_name": "Gaming Pack",
+      "amount": 301,
+      "method": "Credit/Debit Card",
+      "tid": "130526818724553",
+      "rechargeat": "2025-11-07T04:50:56.638Z"
+    },
+    {
+      "id": "1",
+      "planid": "2",
+      "plan_name": "Data Boost",
+      "amount": 98,
+      "method": "UPI",
+      "tid": "677665445555",
+      "rechargeat": "2025-12-09T09:36:26.746Z"
+    },
+    {
+      "id": "1",
+      "planid": "4",
+      "plan_name": "OTT Max",
+      "amount": 499,
+      "method": "Credit/Debit Card",
+      "tid": "45675433567",
+      "rechargeat": "2025-12-09T09:39:13.215Z"
+    },
+    {
+      "id": "1",
+      "planid": "2",
+      "plan_name": "Data Boost",
+      "amount": 98,
+      "method": "Net Banking",
+      "tid": "5555555555555555555",
+      "rechargeat": "2025-12-09T13:24:46.322Z"
+    }
+  ],
+  "tblwifi": [
+    {
+      "wifiid": 1,
+      "plan_name": "SmartNet",
+      "data": "2.5GB/Day",
+      "amount": 299,
+      "validity": "28 Days",
+      "description": "Ideal for light users. Stream and browse with ease...",
+      "id": "14b1"
+    },
+    {
+      "wifiid": 2,
+      "plan_name": "PowerSurf",
+      "data": "100 GB",
+      "amount": 499,
+      "validity": "28 Days",
+      "description": "Great for families and casual streaming.",
+      "id": "d734"
+    },
+    {
+      "wifiid": 3,
+      "plan_name": "UltraSpeed",
+      "data": "200 GB",
+      "amount": 699,
+      "validity": "30 Days",
+      "description": "Perfect for work-from-home and HD streaming.",
+      "id": "3cfe"
+    },
+    {
+      "wifiid": 4,
+      "plan_name": "ZoomNet",
+      "data": "300 GB",
+      "amount": 849,
+      "validity": "30 Days",
+      "description": "Unlimited Zoom calls, streaming, and downloads.",
+      "id": "5c25"
+    },
+    {
+      "wifiid": 5,
+      "plan_name": "GigaBoost",
+      "data": "500 GB",
+      "amount": 999,
+      "validity": "60 Days",
+      "description": "High-speed data for binge-watchers and gamers.",
+      "id": "b94b"
+    },
+    {
+      "wifiid": 6,
+      "plan_name": "StreamPro Unlimited",
+      "data": "Unlimited",
+      "amount": 1199,
+      "validity": "30 Days",
+      "description": "Unlimited usage with consistent 40 Mbps speed.",
+      "id": "3b81"
+    },
+    {
+      "wifiid": 7,
+      "plan_name": "WorkPro Fiber",
+      "data": "1000 GB",
+      "amount": 1499,
+      "validity": "30 Days",
+      "description": "Office-grade speed for heavy-duty work and streaming.",
+      "id": "9588"
+    },
+    {
+      "wifiid": 8,
+      "plan_name": "Infinity Fiber",
+      "data": "Unlimited",
+      "amount": 1999,
+      "validity": "30 Days",
+      "description": "Blazing-fast speeds with no limits. Great for large families.",
+      "id": "1856"
+    },
+    {
+      "wifiid": 10,
+      "plan_name": "Night Owl 200",
+      "data": "200 GB",
+      "amount": 299,
+      "validity": "30 Days",
+      "description": "Special plan for night-time users with cheap rates...",
+      "id": "86ef"
+    },
+    {
+      "wifiid": 15,
+      "plan_name": "abcdqwer",
+      "data": "2GB/Day",
+      "amount": 230,
+      "validity": "220 days",
+      "description": "abcderf",
+      "id": "d4f9"
+    },
+    {
+      "wifiid": 18,
+      "plan_name": "FamilyPack",
+      "data": "5GB/Day",
+      "amount": 699,
+      "validity": "28 Days",
+      "description": "Unlimited data in many desvice",
+      "id": "8ecd"
+    },
+    {
+      "wifiid": 19,
+      "plan_name": "Combo",
+      "data": "3.5 GB/day",
+      "amount": 3599,
+      "validity": "3 Months",
+      "description": "Unlimted Daily data",
+      "id": "b02e"
+    },
+    {
+      "wifiid": 20,
+      "plan_name": "SmartNet",
+      "data": "5GB+",
+      "amount": 6999,
+      "validity": "6 Months",
+      "description": "unlimted daily data",
+      "id": "fec2"
+    }
+  ],
+  "tblwifipayment": [
+    {
+      "pid": 1,
+      "id": "1",
+      "wifiid": 2,
+      "amount": 499,
+      "method": "Credit/Debit Card",
+      "tid": 2025123654,
+      "rechargeat": "2025-09-11 15:55:37"
+    },
+    {
+      "pid": 2,
+      "id": "5",
+      "wifiid": 4,
+      "amount": 849,
+      "method": "Net Banking",
+      "tid": 2025963589,
+      "rechargeat": "2025-10-01 12:52:28"
+    },
+    {
+      "id": "3",
+      "wifiid": "1",
+      "amount": 299,
+      "method": "UPI",
+      "tid": "202582004999244",
+      "rechargeat": "2025-11-04T17:20:12.761Z"
+    },
+    {
+      "id": "4",
+      "wifiid": "20",
+      "plan_name": "SmartNet",
+      "amount": 6999,
+      "method": "UPI",
+      "tid": "67132073462862",
+      "rechargeat": "2025-11-07T04:56:39.314Z"
+    },
+    {
+      "id": "1",
+      "wifiid": "2",
+      "plan_name": "PowerSurf",
+      "amount": 499,
+      "method": "UPI",
+      "tid": "656987765444",
+      "rechargeat": "2025-12-08T16:06:05.892Z"
+    }
+  ],
+  "tblfeedback": [
+    {
+      "fid": 16,
+      "id": "4",
+      "feedback": "your website is give full repponse"
+    },
+    {
+      "fid": 17,
+      "id": "1",
+      "feedback": "easy payment way on your website"
+    },
+    {
+      "fid": 18,
+      "id": "5",
+      "feedback": "your website is good"
+    },
+    {
+      "fid": 19,
+      "id": "1",
+      "feedback": "jhtuftgy"
+    },
+    {
+      "fid": 20,
+      "id": "8",
+      "feedback": "dkjkjdskjkl"
+    },
+    {
+      "fid": 21,
+      "id": "8",
+      "feedback": "siaooaoa"
+    },
+    {
+      "fid": 22,
+      "id": "8",
+      "feedback": "iskjkk"
+    },
+    {
+      "fid": 23,
+      "id": "8",
+      "feedback": "shruti"
+    },
+    {
+      "fid": 24,
+      "id": "9",
+      "feedback": "vidhis comment"
+    },
+    {
+      "fid": 25,
+      "id": "5",
+      "feedback": "awsome"
+    },
+    {
+      "fid": 26,
+      "id": "5",
+      "feedback": "good"
+    },
+    {
+      "fid": 27,
+      "id": "1",
+      "feedback": "good"
+    },
+    {
+      "fid": 28,
+      "id": "1",
+      "feedback": "jhygfrdrtfgj"
+    },
+    {
+      "id": "f5bb",
+      "feedback": "your react website is very easy to use",
+      "rating": 4
+    },
+    {
+      "id": "f5bb",
+      "feedback": "vvvvgoog",
+      "rating": 3
+    },
+    {
+      "id": "f5bb",
+      "feedback": "good",
+      "rating": 4
+    },
+    {
+      "id": "f5bb",
+      "feedback": "absoulte",
+      "rating": 5
+    },
+    {
+      "id": "f5bb",
+      "feedback": "85696889",
+      "rating": 4
+    },
+    {
+      "id": "f5bb",
+      "feedback": "hello menatl",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "feedback": "nice services",
+      "rating": 4
+    },
+    {
+      "id": "6f2e",
+      "feedback": "very good expeience",
+      "rating": 5
+    },
+    {
+      "id": "6f2e",
+      "feedback": "very good",
+      "rating": 4
+    },
+    {
+      "id": "1",
+      "feedback": "nice services",
+      "rating": 5
+    },
+    {
+      "id": "1",
+      "feedback": "hjghvhv",
+      "rating": 4
+    },
+    {
+      "id": "1",
+      "feedback": "good",
+      "rating": 4
+    }
+  ]
+}
